@@ -1,7 +1,6 @@
-[18256:20348:0304/153900.844:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[18256:13916:0304/153900.873:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[18256:20348:0304/153900.888:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[18256:20348:0304/153902.840:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
-[11452:9544:0304/153903.848:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-FF9219DCACEA29B1A60CA1BF99D84CB3 will be ignored
-[14200:17648:0304/160353.835:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[18256:20348:0304/171144.522:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[6692:23332:0310/105151.472:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[6692:17536:0310/105151.499:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[6692:23332:0310/105151.515:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[6692:23332:0310/105153.108:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[22940:6868:0310/105154.778:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-21C4B701ACD813B9E9C3497F9C8ADDE0 will be ignored
+[6692:23332:0310/121644.133:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

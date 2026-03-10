@@ -1,0 +1,13 @@
+[15428:19036:0310/101401.270:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[15428:15820:0310/101401.310:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[15428:19036:0310/101401.337:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[15428:19036:0310/101410.323:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[21164:6312:0310/101412.769:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-BA967802B5D69263EAEC5DFB2DA3E874 will be ignored
+[15428:14124:0310/101414.165:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
+[15428:19036:0310/101414.825:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[15428:19036:0310/101414.825:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[15428:19036:0310/101414.825:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[15428:19036:0310/101414.825:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[15428:14124:0310/101414.828:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[4060:8668:0310/101621.910:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[15428:19036:0310/102410.958:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
