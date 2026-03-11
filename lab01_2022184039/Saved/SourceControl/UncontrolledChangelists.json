@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/user/Documents/GitHub/2022184039unreal/lab01_2022184039/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/user/Documents/GitHub/2022184039unreal/lab01_2022184039/Content/LAB01_Map.umap"
+			]
+		}
+	]
+}
